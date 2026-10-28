@@ -1,5 +1,5 @@
 
-function Ticket(movie, hall, seat, price,count){
+function Ticket({movie, hall, seat, price,count}){
 
     return(
         <div>
